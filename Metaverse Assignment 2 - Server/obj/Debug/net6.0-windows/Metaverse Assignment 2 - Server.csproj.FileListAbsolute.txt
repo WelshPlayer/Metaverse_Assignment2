@@ -1,0 +1,19 @@
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\bin\Debug\net6.0-windows\Metaverse Assignment 2 - Server.exe
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\bin\Debug\net6.0-windows\Metaverse Assignment 2 - Server.deps.json
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\bin\Debug\net6.0-windows\Metaverse Assignment 2 - Server.runtimeconfig.json
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\bin\Debug\net6.0-windows\Metaverse Assignment 2 - Server.dll
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\bin\Debug\net6.0-windows\Metaverse Assignment 2 - Server.pdb
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\bin\Debug\net6.0-windows\SuperSimpleTcp.dll
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\Metaverse Assignment 2 - Server.csproj.AssemblyReference.cache
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\Metaverse_Assignment_2___Server.Form1.resources
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\Metaverse Assignment 2 - Server.csproj.GenerateResource.cache
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\Metaverse Assignment 2 - Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\Metaverse Assignment 2 - Server.AssemblyInfoInputs.cache
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\Metaverse Assignment 2 - Server.AssemblyInfo.cs
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\Metaverse Assignment 2 - Server.csproj.CoreCompileInputs.cache
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\Metaverse Assignment 2 - Server.csproj.CopyComplete
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\Metaverse Assignment 2 - Server.dll
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\refint\Metaverse Assignment 2 - Server.dll
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\Metaverse Assignment 2 - Server.pdb
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\Metaverse Assignment 2 - Server.genruntimeconfig.cache
+F:\UNI Work\OneDrive - University of South Wales\Year 2\Metaverse\Metaverse Assignment 2 - Client\Metaverse Assignment 2 - Server\obj\Debug\net6.0-windows\ref\Metaverse Assignment 2 - Server.dll
